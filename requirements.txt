@@ -1,0 +1,10 @@
+Webpack (imports/exports)//lesson 11
+    Babel//преобразование кода для старых версий js
+    Scss//препроцессор css
+    Eslint//чистота кода
+    2 Modes
+        - Dev//режим разработчика
+            Dev server(автообновление), SourceMaps(разбиение на модули), Eslint(чистота кода), Not Minified JS & CSS
+        - Prod//режим продакт
+            Minified Code(минификация сборки для продакт)
+Git
