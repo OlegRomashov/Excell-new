@@ -12,7 +12,6 @@ export class TableSelection {
     this.current = $el
   }
 
-
   clear() {
     this.group.forEach($el => $el.removeClass(TableSelection.className))
     this.group = []
